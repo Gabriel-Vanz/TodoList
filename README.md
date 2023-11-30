@@ -1,30 +1,17 @@
-# React + TypeScript + Vite
+#  Projeto To Do List - pt-BR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Projeto desenvolvido em React + TypeScript + Vite + TailwindCSS
 
-Currently, two official plugins are available:
+To Do list é um projeto simples de lista de tarefas, onde o usuário pode adicionar, remover e marcar como concluída as tarefas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feito como forma de estudo e prática, bem como um desafio do curso Ignite promovido pela [Rocketseat](https://www.rocketseat.com.br).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+#  Project To Do List - en-US
+### Project developed in React + TypeScript + Vite + TailwindCSS
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+To Do list is a simple project of a task list, where the user can add, remove and mark tasks as completed.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Made as a form of study and practice, as well as a challenge of the Ignite course promoted by [Rocketseat](https://www.rocketseat.com.br).
